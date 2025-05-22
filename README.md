@@ -1,4 +1,8 @@
-## ✅ Spring Security - Documentation Update
+<details>
+<summary><strong> 
+  Spring Security - Documentation Update 
+  
+</strong></summary>
 
 - **Project**: [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
 - **Type of Contribution**: Documentation improvement
@@ -61,5 +65,6 @@ This helps:
 - Prevent bugs that are hard to detect,
 - Ensure expected security features work reliably,
 - Save time for other developers facing mysterious session issues.
+</details>
 
 ---
